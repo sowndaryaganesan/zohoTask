@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="material_blue">#6452f0</color>
+    <color name="appViewStroke">#EDEDED</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="gray">#A0A7B2</color>
+    <color name="editTextBGStoke">#E1E6F9</color>
+    <color name="editTextIcon">#BBC1E1</color>
+    <color name="link_blue">#0095FF</color>
+    <color name="dark_blue">#019EAF</color>
+<!--    <color name="app_blue">#008A9B</color>-->
+    <color name="app_blue">#55A9B7</color>
+    <color name="app_blue1">#3F7373</color>
+<!--    <color name="app_orange">#F8CAA6</color>-->
+<!--    <color name="light_orange">#FAE1C3</color>-->
+</resources>

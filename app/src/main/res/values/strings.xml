@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">android</string>
+
+    <string name="splash_text1">The higher the clouds, the finer the weather.</string>
+    <string name="splash_text2">Rain foretold, long last.</string>
+</resources>
